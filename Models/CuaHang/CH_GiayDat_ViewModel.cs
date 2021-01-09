@@ -4,6 +4,8 @@
     {
         public int option { get; set; }
         public string HoaDonDatHang { get; set; }
+        public string TuNgay { get; set; }
+        public string DenNgay { get; set; }
         public string CuaHang { get; set; }
         public string MaNhanVien { get; set; }
         public string MaKhachHang { get; set; }
@@ -18,7 +20,5 @@
         public string NguoiTao { get; set; }
         public string NguoiThayDoi { get; set; }
         public int Status { get; set; }
-        public int ThamSoXacNhan { get; set; }
-
     }
 }

@@ -23,12 +23,15 @@ namespace VNG.Business.Entities.CuaHang
         public string MaKhachHang { get; set; }
         public string TenKhachHang { get; set; }
         public string SoDienThoai { get; set; }
-        public string NgayDatHang { get; set; }
-        public string NgayYeuCauGiao { get; set; }
-        public string NgayGiaoHang { get; set; }
+        public DateTime? NgayDatHang { get; set; }
+        public DateTime? NgayYeuCauGiao { get; set; }
+        public DateTime? NgayGiaoHang { get; set; }
         public string Label_KieuSize { get; set; }
-        public decimal? Gia2 { get; set; }
-        public decimal? ThanhTien2 { get; set; }
-        public string TinhTrang { get; set; }
+        public decimal? Gia2 { get; set; } //Giá / 1000 dùng in phiếu
+        public decimal? ThanhTien { get; set; }
+        public decimal? ThanhTien2 { get; set; } //Thành tiền / 1000 dùng in phiếu
+        public decimal? TienKhachDua { get; set; }
+        public decimal? SoTienThua { get; set; }
+
     }
 }

@@ -4,8 +4,6 @@
     {
         public int option { get; set; }
         public string CuaHang { get; set; }
-        public string TuNgay { get; set; }
-        public string DenNgay { get; set; }
         public int ID { get; set; }
         public string HoaDonDatHang { get; set; }
         public string Kieu { get; set; }
