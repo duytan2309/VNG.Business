@@ -69,6 +69,9 @@
     <Compile Include="Entities\DTA\DM_VungMien.cs" />
     <Compile Include="Entities\Public\NhapKho.cs" />
     <Compile Include="Entities\Public\XuatKho.cs" />
+    <Compile Include="Entities\VungMien\VM_TonKho.cs" />
+    <Compile Include="Entities\VungMien\VM_VanChuyen.cs" />
+    <Compile Include="Entities\VungMien\VM_YeuCauCuaHang.cs" />
     <Compile Include="Models\CuaHang\CH_ChiTietDatHangNoiBo_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_ChiTietGiaySua_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_DatHangNoiBo_ViewModel.cs" />
@@ -97,6 +100,9 @@
     <Compile Include="Models\DTA\DM_VungMien_ViewModel.cs" />
     <Compile Include="Models\Public\NhapKho_ViewModel.cs" />
     <Compile Include="Models\Public\XuatKho_ViewModel.cs" />
+    <Compile Include="Models\VungMien\VM_TonKho_ViewModel.cs" />
+    <Compile Include="Models\VungMien\VM_VanChuyen_ViewModel.cs" />
+    <Compile Include="Models\VungMien\VM_YeuCauCuaHang_ViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\CustomJsonResult.cs" />
   </ItemGroup>
