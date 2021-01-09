@@ -41,7 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\CuaHang\CH_ChiTietDatHangNoiBo.cs" />
     <Compile Include="Entities\CuaHang\CH_ChiTietGiaySua.cs" />
+    <Compile Include="Entities\CuaHang\CH_DatHangNoiBo.cs" />
+    <Compile Include="Entities\CuaHang\CH_DoiTraHang.cs" />
+    <Compile Include="Entities\CuaHang\CH_GiayDat.cs" />
+    <Compile Include="Entities\CuaHang\CH_GiayDatChiTiet.cs" />
     <Compile Include="Entities\CuaHang\CH_GiaySua.cs" />
     <Compile Include="Entities\CuaHang\CH_QuanLyThuChi.cs" />
     <Compile Include="Entities\CuaHang\CH_TonKho.cs" />
@@ -64,7 +69,12 @@
     <Compile Include="Entities\DTA\DM_VungMien.cs" />
     <Compile Include="Entities\Public\NhapKho.cs" />
     <Compile Include="Entities\Public\XuatKho.cs" />
+    <Compile Include="Models\CuaHang\CH_ChiTietDatHangNoiBo_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_ChiTietGiaySua_ViewModel.cs" />
+    <Compile Include="Models\CuaHang\CH_DatHangNoiBo_ViewModel.cs" />
+    <Compile Include="Models\CuaHang\CH_DoiTraHang_ViewModel.cs" />
+    <Compile Include="Models\CuaHang\CH_GiayDatChiTiet_ViewModel.cs" />
+    <Compile Include="Models\CuaHang\CH_GiayDat_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_GiaySua_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_QuanLyThuChi_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_TonKhoDinhMuc_ViewModel.cs" />

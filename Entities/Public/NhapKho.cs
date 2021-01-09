@@ -6,7 +6,7 @@ namespace VNG.Business.Entities.Public
     {
         public string TinhTrang { get; set; }
         public string Loai { get; set; }
-        public int ID { get; set; }
+        public int? ID { get; set; }
         public string Kieu { get; set; }
         public string TenChungLoai { get; set; }
         public string NVKiemHang { get; set; }
