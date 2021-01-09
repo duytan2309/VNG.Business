@@ -8,9 +8,9 @@ namespace VNG.Business.Entities.CuaHang
         public string HoaDonDatHang { get; set; }
         public string Kieu { get; set; }
         public string Size { get; set; }
-        public int SoLuong { get; set; }
+        public int? SoLuong { get; set; }
         public string GhiChu { get; set; }
-        public decimal Gia { get; set; }
+        public decimal? Gia { get; set; }
         public DateTime? NgayTao { get; set; }
         public string NguoiTao { get; set; }
         public DateTime? NgayThayDoi { get; set; }
@@ -27,8 +27,8 @@ namespace VNG.Business.Entities.CuaHang
         public string NgayYeuCauGiao { get; set; }
         public string NgayGiaoHang { get; set; }
         public string Label_KieuSize { get; set; }
-        public decimal Gia2 { get; set; }
-        public decimal ThanhTien2 { get; set; }
+        public decimal? Gia2 { get; set; }
+        public decimal? ThanhTien2 { get; set; }
         public string TinhTrang { get; set; }
     }
 }
