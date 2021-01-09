@@ -1,0 +1,12 @@
+D:\VNG.Business\bin\Debug\VNG.Business.dll
+D:\VNG.Business\bin\Debug\VNG.Business.pdb
+D:\VNG.Business\obj\Debug\VNG.Business.csprojAssemblyReference.cache
+D:\VNG.Business\obj\Debug\VNG.Business.csproj.CoreCompileInputs.cache
+D:\VNG.Business\obj\Debug\VNG.Business.dll
+D:\VNG.Business\obj\Debug\VNG.Business.pdb
+D:\Project\VinaGiay2021\VNG.Business\bin\Debug\VNG.Business.dll
+D:\Project\VinaGiay2021\VNG.Business\bin\Debug\VNG.Business.pdb
+D:\Project\VinaGiay2021\VNG.Business\obj\Debug\VNG.Business.csprojAssemblyReference.cache
+D:\Project\VinaGiay2021\VNG.Business\obj\Debug\VNG.Business.csproj.CoreCompileInputs.cache
+D:\Project\VinaGiay2021\VNG.Business\obj\Debug\VNG.Business.dll
+D:\Project\VinaGiay2021\VNG.Business\obj\Debug\VNG.Business.pdb
