@@ -50,11 +50,17 @@
     <Compile Include="Entities\DTA\DM_CaLamViec.cs" />
     <Compile Include="Entities\DTA\DM_ChungLoaiHang.cs" />
     <Compile Include="Entities\DTA\DM_CuaHang.cs" />
+    <Compile Include="Entities\DTA\DM_DongSanPham.cs" />
     <Compile Include="Entities\DTA\DM_DonViTinh.cs" />
     <Compile Include="Entities\DTA\DM_KhachHang.cs" />
+    <Compile Include="Entities\DTA\DM_LenhThuHoi.cs" />
     <Compile Include="Entities\DTA\DM_LoaiHang.cs" />
+    <Compile Include="Entities\DTA\DM_LoaiThuChi.cs" />
     <Compile Include="Entities\DTA\DM_MoTaLoi.cs" />
+    <Compile Include="Entities\DTA\DM_PhanLoai.cs" />
+    <Compile Include="Entities\DTA\DM_Size.cs" />
     <Compile Include="Entities\DTA\DM_ThoiGianBaoHanh.cs" />
+    <Compile Include="Entities\DTA\DM_ThuongHieu.cs" />
     <Compile Include="Entities\DTA\DM_VungMien.cs" />
     <Compile Include="Models\CuaHang\CH_ChiTietGiaySua_ViewModel.cs" />
     <Compile Include="Models\CuaHang\CH_GiaySua_ViewModel.cs" />
@@ -65,11 +71,17 @@
     <Compile Include="Models\DTA\DM_CaLamViec_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_ChungLoaiHang_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_CuaHang_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_DongSanPham_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_DonViTinh_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_KhachHang_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_LenhThuHoi_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_LoaiHang_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_LoaiThuChi_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_MoTaLoi_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_PhanLoai_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_Size_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_ThoiGianBaoHanh_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_ThuongHieu_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_VungMien_ViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
