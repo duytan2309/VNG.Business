@@ -4,7 +4,7 @@ namespace VNG.Business.Entities.CuaHang
 {
     public class CH_ChiTietDatHangNoiBo
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string SoHoaDon { get; set; }
         public string MaCuaHangBan { get; set; }
         public string MaCuaHangDat { get; set; }
